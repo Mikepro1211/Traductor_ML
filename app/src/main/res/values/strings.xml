@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">traductor</string>
+    <string name="Et_idioma_Origin">Ingrese Texto</string>
+    <string name="tv_Idioma_Destino">Traduccion</string>
+    <string name="BtnElegir_Idioma">Español</string>
+    <string name="Btn_IdiomaElegido">Ingles</string>
+    <string name="btnTraducir">Traducir</string>
+</resources>
